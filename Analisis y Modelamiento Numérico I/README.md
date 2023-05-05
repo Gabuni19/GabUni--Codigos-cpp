@@ -5,7 +5,7 @@ En este curso, exploraremos los fundamentos del análisis numérico y su aplicac
 
 | Algoritmo                        | Descripción                                          |
 |----------------------------------|------------------------------------------------------|
-| Método de bisección              | Método para encontrar las raíces de una ecuación      |
+| normalizar             | Método para normalizar un numero a la forma 0.[...]x10^e      |
 | Método de Newton-Raphson         | Método para encontrar raíces mediante iteraciones     |
 | Método de interpolación lineal   | Aproximación de una función mediante segmentos lineales |
 | Método de interpolación de Lagrange | Aproximación de una función mediante polinomios |
