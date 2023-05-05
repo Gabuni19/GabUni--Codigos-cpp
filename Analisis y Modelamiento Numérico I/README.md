@@ -12,3 +12,5 @@ En este curso, exploraremos los fundamentos del análisis numérico y su aplicac
 | Rango_Representacion_Complemento2               | Método que muestra el rango que se puede representar con un numero n (tamaño de maquina)                   |
 | ConjuntoF_base2                 | Metodo que te muestra todos  los numeros maquina del conjunto F(base2,mantisa,L,U)                  |
 | IEEE                  | Método que imprime la transformacion IEEE standar de 32 bits pasado un numero       |
+| Eliminacion Gauseana                  | Método que imprime el proceso de ELiminacion de Gauss para resolver Ax=b       |
+| Metodo de Gauss Jordan                  | Método que imprime el proceso del Metodo de Gauss Jordan para resolver Ax=b     |
