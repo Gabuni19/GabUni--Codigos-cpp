@@ -8,9 +8,7 @@ En este curso, exploraremos los fundamentos del análisis numérico y su aplicac
 | Normalizar             | Método para normalizar un número a la forma 0.[...]x10^e      |
 | Flotante         | Método para encontrar el flotante de un numero (utiliza normalizar)     |
 | Binario_a_Decimal   | Método que convierte un binario con punto flotante a decimal por descomposicion polinomica |
-| Método de interpolación de Lagrange | Aproximación de una función mediante polinomios |
-| Regla del trapecio               | Aproximación numérica de integrales                   |
-| Regla de Simpson                 | Aproximación numérica de integrales                   |
-| Método de Euler                  | Resolución numérica de ecuaciones diferenciales       |
-| Método de Runge-Kutta            | Resolución numérica de ecuaciones diferenciales       |
-| Método de elementos finitos      | Método para la discretización de problemas continuos  |
+| To_Complemento2 | Método que pasa u numero entero asu complemento a 2 |
+| Rango_Representacion_Complemento2               | Método que muestra el rango que se puede representar con un numero n (tamaño de maquina)                   |
+| ConjuntoF_base2                 | Metodo que te muestra todos  los numeros maquina del conjunto F(base2,mantisa,L,U)                  |
+| IEEE                  | Método que imprime la transformacion IEEE standar de 32 bits pasado un numero       |
