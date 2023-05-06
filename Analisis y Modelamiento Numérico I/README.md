@@ -14,3 +14,5 @@ En este curso, exploraremos los fundamentos del análisis numérico y su aplicac
 | IEEE                  | Método que imprime la transformacion IEEE standar de 32 bits pasado un numero       |
 | Eliminacion Gauseana                  | Método que imprime el proceso de ELiminacion de Gauss para resolver Ax=b       |
 | Metodo de Gauss Jordan                  | Método que imprime el proceso del Metodo de Gauss Jordan para resolver Ax=b     |
+| Metodo de Cholesky                 | Método que imprime el proceso del Metodo de Cholesky para resolver Ax=b     |
+| Factorizacion LDL.T                  | Método que imprime el proceso de Factorizacion LDL.T para resolver Ax=b     |
