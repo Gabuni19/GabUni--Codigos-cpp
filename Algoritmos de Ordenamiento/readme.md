@@ -1,1 +1,1 @@
-Encontraras algoritmo de ordenamiento
+| Aqui encontraras algoritmo de ordenamiento |
