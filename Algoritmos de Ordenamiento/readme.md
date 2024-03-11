@@ -1,1 +1,1 @@
-te
+Encontraras algoritmo de ordenamiento
